@@ -1,0 +1,30 @@
+html {
+    background-color: rgb(235, 243, 247);
+}
+.content{
+    border-radius: 50px;
+    display: block;
+    padding: 50px 100px;
+    background-color: rgb(227, 235, 239);
+    width: 300px;
+    height: 500px;
+    margin:  100px 30px;
+
+}
+
+.head, .list {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    display: block;
+    width: 300px;
+    margin: auto;
+    
+}
+
+
+.list{
+    font-size: 30px;
+}
+.list_element {
+    padding-bottom:40px ;
+}
+
